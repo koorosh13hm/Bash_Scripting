@@ -20,3 +20,10 @@
 # echo "Done";
 
 
+## An small test on variables
+# $counter : ''
+# read -p "Select repetition number: " counter
+# echo "Chosen Number: " $counter
+
+
+## Some for loop for the case above
